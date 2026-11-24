@@ -183,4 +183,3 @@ with tab4:
     st.caption(f"Showing {len(view):,} records · Synthetic demonstration dataset")
 
 st.markdown("---")
-st.caption("BarangayPulse · Capstone 1 prototype · Demonstration data only")
